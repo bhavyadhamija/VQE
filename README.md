@@ -1,4 +1,4 @@
-# Particle in a box — variational method, virial theorem and VQE
+# Particle in a box variational method, virial theorem and VQE
 
 Code behind the slides. Units: ħ = m = L = 1, so energies are in ħ²/(mL²) and the exact ground state is π²/2 ≈ 4.934802.
 
